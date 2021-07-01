@@ -1,0 +1,44 @@
+[{
+    "id" :1,
+    "title":"घर/जग्गा/बाटो",
+    "icon": "wadapatra_GharJagga",
+    "data": []
+   },
+    {
+        "id":2,
+     "title":"पञ्जीकरण",
+     "icon": "wadapatra_Panjikaran",
+     "data": []
+    },
+    {
+        "id" :3,
+      "title":"सेवा/सुविधा",
+      "icon": "wadapatra_SewaSubidha",
+      "data": []
+     }, 
+     {"id":4,
+      "title":"व्यापार/उद्योग/चौपाया/व्यवसाय",
+      "icon": "wadapatra_Industry",
+      "data": []
+     },
+     {"id":5,
+      "title":"कर/कानुन",
+      "icon": "wadapatra_TaxLaw",
+      "data": []
+     }, 
+     {"id":6,
+      "title":"शिक्षा/स्वास्थ्य/विदेश",
+      "icon": "wadapatra_EduHealth",
+      "data": []
+     },
+     {"id":7,
+      "title":"बसोबास/बसाइँसराई",
+      "icon": "wadapatra_SettleMigrant",
+      "data": []
+     },
+    {"id":8,
+     "title":"अन्य",
+     "icon": "other",
+     "data": []
+    }
+   ]
